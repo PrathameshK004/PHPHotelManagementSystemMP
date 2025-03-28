@@ -21,9 +21,7 @@ $table = isset($_POST['table']) ? $_POST['table'] : 'users';
             background-color: #f4f4f4;
             display: flex;
             justify-content: center;
-            align-items: center;
-            height: 100vh;
-            padding: 10px;
+            padding: 20px;
             overflow: hidden;
         }
         .container {

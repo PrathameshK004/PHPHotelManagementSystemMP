@@ -40,10 +40,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             background-color: #f4f4f4;
             display: flex;
             justify-content: center;
-            align-items: center;
-            height: 100vh;
-            padding: 10px;
             overflow: hidden; /* No scrollbars */
+            padding: 20px;
         }
         .container {
             width: 100%;
